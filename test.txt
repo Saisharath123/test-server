@@ -1,3 +1,2 @@
 Hello from EC2 GitHub Integration
 Second line
-lion king
